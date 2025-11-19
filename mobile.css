@@ -1,0 +1,20 @@
+@media (max-width:500px){
+
+.options-text{
+    display: none;
+    margin-top: 10px;
+}
+
+.options-con{
+    flex-direction: column;
+    gap: 10px;
+    /* height: 180px; */
+}
+#options{
+    display: block;
+}
+#options , #close{
+    top: 10px;
+    left: 10px;
+}
+}
